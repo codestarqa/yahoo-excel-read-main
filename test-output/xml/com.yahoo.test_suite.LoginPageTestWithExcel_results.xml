@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.493">
+  <properties />
+  
+  
+            <testcase name="doLogin" time="5.033" classname="com.yahoo.test_suite.LoginPageTestWithExcel" />
+                <testcase name="doLogin" time="6.152" classname="com.yahoo.test_suite.LoginPageTestWithExcel" />
+                <testcase name="doLogin" time="5.308" classname="com.yahoo.test_suite.LoginPageTestWithExcel" />
+      
+</testsuite>
